@@ -38,7 +38,6 @@ print("a>=b=",(a>=b))
 print("a<=b=",(a<=b))
 
 print("\n---Percentage Calculation---")
-#Task 04
 English_marks= 75
 Mathematics_marks=80
 Islamiat_marks= 90
